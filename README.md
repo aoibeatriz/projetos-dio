@@ -1,3 +1,3 @@
-# PROJETOS E DESAFIOS DIO
+# <strong> PROJETOS E DESAFIOS DIO </strong>
 
-## Nesse repositório irei reunir os desafios que faço no DIO.
+## Nesse repositório irei reunir os desafios que faço na DIO.
